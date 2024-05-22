@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "amount" : 5000.00,
+    "type": "CREDIT",
+    "date": "2024-05-01"
+  },
+
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "amount" : -1000.00,
+    "type": "DEBIT",
+    "date": "2024-05-04"
+  },
+
+  {
+    "id": 3,
+    "name": "Jack Smith",
+    "amount" : 6000.00,
+    "type": "CREDIT",
+    "date": "2024-05-09"
+  },
+
+  {
+    "id": 1,
+    "name": "John Doe",
+    "amount" : 10000.00,
+    "type": "CREDIT",
+    "date": "2024-05-14"
+  },
+
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "amount" : -7000.00,
+    "type": "DEBIT",
+    "date": "2024-05-19"
+  },
+
+  {
+    "id": 3,
+    "name": "Jack Smith",
+    "amount" : 10000.00,
+    "type": "CREDIT",
+    "date": "2024-05-21"
+  }
+]
